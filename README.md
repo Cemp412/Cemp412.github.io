@@ -1,1 +1,2 @@
 This open-source website, created using HTML, CSS, and JavaScript, is designed to bring a smile to someone's face by sharing beautiful thoughts and memorable moments. Feel free to clone this project, make a few changes, and use it to send personalized wishes for birthdays, weddings, or any special occasion.
+Visit Website: https://cemp412.github.io/a-little-gift-for-your-loved-ones/
